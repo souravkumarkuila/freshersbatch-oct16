@@ -1,5 +1,4 @@
-dsdsd
-kuila is editing Readme.txt file
+editing Readme.txt file
 <<<<<<< HEAD
 This is css readme
 =======
